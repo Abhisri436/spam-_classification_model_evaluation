@@ -1,6 +1,6 @@
 # 📧 Spam Classification Model Evaluation
 
-This project evaluates multiple machine learning and deep learning models to classify SMS messages as spam or not spam. The dataset is preprocessed into a bag-of-words representation with over **1,300 word-frequency features** and a binary `label` column (0 = ham, 1 = spam).
+This project evaluates multiple machine learning and deep learning models to classify SMS messages as spam or not spam. The dataset is preprocessed into a bag-of-words representation with over **1,300 word-frequency features** and a binary `label` column (0 = not spam, 1 = spam).
 
 ## 📊 Project Highlights
 
@@ -33,7 +33,7 @@ Based on the evaluation results:
 ## 📂 Dataset
 
 - Dataset files: `train.csv` and `test.csv` (already included in this repository).
-- Each row represents frequency counts for 1364 unique words, plus a binary `label` column indicating spam (1) or ham (0).
+- Each row represents frequency counts for 1364 unique words, plus a binary `label` column indicating spam (1) or not (0).
 
 ## 📁 Files Included
 
