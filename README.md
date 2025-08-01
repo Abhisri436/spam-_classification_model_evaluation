@@ -27,7 +27,7 @@ Based on the evaluation results:
   - 97.1% accuracy, 0.964 precision, 0.832 recall, 0.893 F1 score, but with a higher log loss of 0.4045.
 - Decision Tree had the weakest results:
   - 90.9% accuracy, 0.698 precision, 0.646 recall, 0.671 F1 score, and 0.2347 log loss.
-➡️ Conclusion: The MLP model offers the best balance of predictive accuracy and probabilistic confidence, making it the most suitable for this classification task.
+- ➡️ Conclusion: The MLP model offers the best balance of predictive accuracy and probabilistic confidence, making it the most suitable for this classification task.
 
 
 ## 📂 Dataset
